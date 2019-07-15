@@ -1,0 +1,19 @@
+
+
+    body {
+      background-color: #8ac6d1;
+
+    }
+
+    hr {
+      border-color: #414141;
+      border-width: 5px;
+      border-style: none;
+      border-top-style: dotted;
+      width: 5%;
+
+
+    }
+    h1 {color: #2d3561;font-family:system-ui ;}
+    h2 {color: #216583}
+    h3 {color: #2D3561;font-family:cursive;}
